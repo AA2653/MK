@@ -64,7 +64,7 @@ vapp = new Vue({
     showSRSuppressor: true,
     showSRExtended: false,
     showSRStock: false,
-    showM16A4: false,
+    showM16A4: true,
     showSCAR: true,
     showAK47: false,
     showHK416: true,
